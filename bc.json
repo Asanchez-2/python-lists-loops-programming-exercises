@@ -144,7 +144,7 @@
         {
             "slug": "02.3-loop-from-the-half-to-the-end",
             "title": "02.3-loop-from-the-half-to-the-end",
-            "done": false,
+            "done": true,
             "path": "exercises/02.3-loop-from-the-half-to-the-end",
             "translations": [
                 "es",
@@ -155,7 +155,7 @@
         {
             "slug": "02.4-One_last_looping",
             "title": "02.4-One_last_looping",
-            "done": false,
+            "done": true,
             "path": "exercises/02.4-One_last_looping",
             "translations": [
                 "es",
@@ -166,7 +166,7 @@
         {
             "slug": "02.5-Finding_wally",
             "title": "02.5-Finding_wally",
-            "done": false,
+            "done": true,
             "path": "exercises/02.5-Finding_wally",
             "translations": [
                 "es",
@@ -177,7 +177,7 @@
         {
             "slug": "03-flip_list",
             "title": "03-flip_list",
-            "done": false,
+            "done": true,
             "path": "exercises/03-flip_list",
             "translations": [
                 "es",
