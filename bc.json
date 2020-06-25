@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://e71a278c-be94-4adc-a033-0ab194f57f29.ws-eu01.gitpod.io",
+    "address": "https://ec2ef867-9986-4768-8266-7d826fa89573.ws-eu01.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -67,7 +67,7 @@
         {
             "slug": "01.2-Retrieve-items",
             "title": "01.2-Retrieve-items",
-            "done": false,
+            "done": true,
             "path": "exercises/01.2-Retrieve-items",
             "translations": [
                 "es",
@@ -78,7 +78,7 @@
         {
             "slug": "01.3-Print-the-last-one",
             "title": "01.3-Print-the-last-one",
-            "done": false,
+            "done": true,
             "path": "exercises/01.3-Print-the-last-one",
             "translations": [
                 "es",
@@ -89,7 +89,7 @@
         {
             "slug": "01.4-Add-item-to-list",
             "title": "01.4-Add-item-to-list",
-            "done": false,
+            "done": true,
             "path": "exercises/01.4-Add-item-to-list",
             "translations": [
                 "es",
